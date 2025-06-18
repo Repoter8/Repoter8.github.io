@@ -1,3 +1,4 @@
+# Answers to 16 Internet and Web Questions
 1. What is the internet backbone?
 The internet backbone is like the main roads that connect big cities. It’s the super-fast cables and computers that help send information all over the world.
 
@@ -17,6 +18,10 @@ TCP/IP is like a set of rules for sending letters. It helps computers know how t
 Email (like Gmail)
 Websites (like YouTube)
 Online games (like Minecraft)
+## Three linked examples
+<a href="https://www.minecraft.net/en-us/download">Download Minecraft</a>
+<a href="https://www.youtube.com/watch?v=o5g-lUuFgpg">Watch this YouTube video</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">*click for unlimited fun*</a>
 6. What is hypertext?
 Hypertext is words or pictures you can click on to go to another page or website.
 
@@ -54,3 +59,16 @@ You can fill this in with things you like, what you believe, and what you’ve l
 
 16. How might CSE1210 connect to your future job?
 Learning about computers in CSE1210 can help you get a job where you use computers, like making games, building websites, or helping people with technology.
+17. Guess what?
+what?
+**Chicken Butt**
+
+# Image Of Gubby Because He's Cute
+![Gubby Image](https://static.wikia.nocookie.net/star-glitcher-revitalized/images/7/70/Gubby.png/revision/latest/scale-to-width-down/340?cb=20250513183124)
+**sorce** [Click here to visit the Gubby Wiki page](https://star-glitcher-revitalized.fandom.com/wiki/Gubby)
+<style>
+  body {
+    background-color: purple;
+  }
+</style>
+<p style="color: red;">This text is evil.</p>
